@@ -5,3 +5,5 @@ Desafio de projeto sobre Git/Github
 [Sintaxe Básica Mardown](https://www.markdownguide.org/basic-syntax/)
 
 [Documentação do Github](https://docs.github.com/pt)
+
+[GIT - Download](https://git-scm.com/download/win)
